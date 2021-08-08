@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+#countries {
+  overflow: hidden;
+}
+
+.col {
+  width: 31%;
+  min-height: 200px;
+  padding: 1%;
+  border: 2px solid goldenrod;
+  border-radius: 10px;
+  float: left;
+}
+
+.countryName {
+  font-size: 40px;
+  color: hotpink;
+  margin: 0;
+}
+
+.cityName {
+  color: lightseagreen;
+  font-size: 28px;
+}
+
+.flag {
+  width: 200px;
+}
