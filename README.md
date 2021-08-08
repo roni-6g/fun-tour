@@ -1,2 +1,2 @@
 # fun-tour
-https://roni-6g.github.io/fun-tour/
+Project Live: https://roni-6g.github.io/fun-tour/
